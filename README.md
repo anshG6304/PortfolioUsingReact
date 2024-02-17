@@ -1,3 +1,11 @@
+the repository had a file named anshika.jpg which has been removed due to privacy concerns. 
+this will need a necessary changes in code in home.js file.
+
+
+
+
+
+React auotomated readme starts...
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
